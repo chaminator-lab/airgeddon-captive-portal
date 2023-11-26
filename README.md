@@ -15,7 +15,7 @@ in our example we are going to first create the desired html/css/js files of a w
 # Second :
 
 You need to add the bash tags as such :\
-add at #!/usr/bin/env tag at the first line of the html. \
+add a #!/usr/bin/env tag at the first line of the html. \
 add (echo -e ')  at the beggining of each line and close each line with ('). \
 in general try to follow the structure of the original index.htm file : 
 
