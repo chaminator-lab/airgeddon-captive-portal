@@ -23,7 +23,7 @@ in general try to follow the structure of the original index.htm file :
 
 
 
-Once that is done go to the html file and change the action tag of the login form to point to check.htm .\
+Once that is done go to the html file and change the action tag of the login form to point to check.htm .
 
 
 # CHECK.HTM  is where the bash magic happends \
