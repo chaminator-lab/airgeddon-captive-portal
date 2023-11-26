@@ -26,5 +26,5 @@ in general try to follow the structure of the original index.htm file :
 Once that is done go to the html file and change the action tag of the login form to point to check.htm .
 
 
-# CHECK.HTM  is where the bash magic happends \
-Now you need the check.htm , for a simple attack like the one here you can copy the default check.htm file in /tmp/www/ to another directory and modify it.\
+# CHECK.HTM  is where the bash magic happens.
+Now you need the check.htm file , for a simple attack like the one here you can copy the default check.htm file in /tmp/www/ to another directory and modify it.\
