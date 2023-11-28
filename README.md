@@ -29,4 +29,6 @@ Once that is done go to the html file and change the action tag of the login for
 # CHECK.HTM  is where the bash magic happens.
 Now create a check.htm file in the same directory as index.htm, you can copy the one in the repo and modify the path (lines 32 and 40) to a txt file where the credentials will be stored on your local machine when the user submits the form.
 
-![Screenshot_2023-11-28_17_11_30](https://github.com/chaminator-lab/airgeddon-captive-portal/assets/82542602/197d9b88-302d-4f04-93f4-7670a50beae3)
+![Screenshot_2023-11-28_17_13_39](https://github.com/chaminator-lab/airgeddon-captive-portal/assets/82542602/adf08632-25c8-4c4f-a874-83fc819e3223)
+
+
