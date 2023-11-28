@@ -27,4 +27,5 @@ Once that is done go to the html file and change the action tag of the login for
 
 
 # CHECK.HTM  is where the bash magic happens.
-Now you need the check.htm file , for a simple attack like the one here you can copy the default check.htm file in /tmp/www/ to another directory and modify it.\
+Now create a check.htm file in the same directory as index.htm, you can copy the one in the repo and modify the path (lines 32 and 40) to a txt file where the credentials will be stored on your local machine.
+ 
