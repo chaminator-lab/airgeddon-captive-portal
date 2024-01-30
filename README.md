@@ -1,4 +1,4 @@
-#Requierements: Some basic html
+#Requierements: Some basic html + Bash
 # HOW TO MODIFY AIRGEDDONS CAPTIVE PORTAL AND STORE USER INPUT.
 IMPORTANT NOTE :\
 The files in this repo represent an example of a targeted virtual attack against an Educational institution made for educational purposes only.
